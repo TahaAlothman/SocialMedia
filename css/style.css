@@ -1,6 +1,6 @@
 .mynav{
    margin-top: 10px;
-   padding: 10px;
+  
    border: 1px solid black;
    background-color: white;
     border-radius: 40px;
@@ -14,4 +14,44 @@
 .First{
     background-color: #254F1A;
 
+}
+.mytittel1{
+    font-size: 70px;
+    color:#D2DC1D;
+    font-weight: 700;
+}
+.subtittle1{
+    font-size: 22px;
+    color: #D2DC1D;
+
+}
+.myemail{
+    height: 70px;
+    width: 350px;
+    padding-left: 20px;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+.mybutton1{
+    color: #7E2C7E;
+    border: 2px solid  #254F1A;
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: RGB(250, 200, 246);
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 30px ;
+    margin-left:10px ;
+}
+.mybutton1:hover{
+    background-color: #F6E6F6;
+}
+.myimg1{
+    width: 500px;
+    height: 550px;
+    margin: 2px 20px 70px 100px;
+    border: 1px solid #254F1A;
+    border-radius: 20px;
 }
