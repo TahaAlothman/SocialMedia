@@ -107,4 +107,43 @@
 .myimg2{
     transition: all .2s;
 }
-   
+.thirdly{
+    background-color: #780016;
+}
+   .myimg3{
+    height: 400px;
+    width: 550px;
+    padding: 10px 20px 12px 19px;
+    border: 1px solid #780016;
+    border-radius: 70px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+   }
+   .mytittel3{
+    font-size: 65px;
+    color:#E9C0E9;
+    font-weight: 700;
+    margin-top: 100px;
+}
+.subtittle3{
+    font-size: 22px;
+    color:#E9C0E9;
+    font-weight: 400;
+    padding-top: 20px;
+}
+.mybutton3{
+    text-align: center;
+    color: #7E2C7E;
+    border: 2px solid #780016;
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: RGB(250, 200, 246);
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 30px ;
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+.mybutton3:hover{
+    background-color: #F6E6F6;
+}
