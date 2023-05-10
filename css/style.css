@@ -55,3 +55,56 @@
     border: 1px solid #254F1A;
     border-radius: 20px;
 }
+.Second{
+  background-color: #F3F3F1;
+}
+.mytittel2{
+    font-size: 60px;
+    color:black;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 100px;
+}
+.mybutton2{
+    text-align: center;
+    color: #7E2C7E;
+    border: 2px solid #F3F3F1;
+    border-radius: 50px;
+    font-size: 20px;
+    background-color: RGB(250, 200, 246);
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 30px ;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.mybutton2:hover{
+    background-color: #F6E6F6;
+}
+.myimg2{
+    width: 359px;
+    height: 320px;
+    border: 1px solid white;
+    border-radius: 50px;
+    margin-left: 23px;
+    margin-top: 28px;
+}
+.subtittle2{
+    font-size: 22px;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 22px;
+
+}
+.mydiv2{
+    border: 1px solid white;
+    border-radius: 20px;
+    background-color: white;
+}
+.myimg2:hover{
+    transform: scale(1.1); 
+}
+.myimg2{
+    transition: all .2s;
+}
+   
