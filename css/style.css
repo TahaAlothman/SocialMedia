@@ -168,6 +168,9 @@
     margin-top: 44px;
     margin-bottom: 37px;
 }
+.myimg4:hover{
+    box-shadow: 10px 10px;
+}
 .tittle4{
     font-weight: 400;
     padding-bottom: 5px;
@@ -188,7 +191,8 @@
     margin-bottom: 37px;
 }
 .myimg5:hover{
-    margin-top: -10px;
+    box-shadow: 10px 10px;
+
 }
 .imgcontainer{
     background-color: #E9C0E9;
