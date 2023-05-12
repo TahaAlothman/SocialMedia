@@ -295,6 +295,9 @@
     border-radius: 50%;
     margin: 20px 10px;
 }
+.myicon:hover{
+   padding-right: 10px;
+}
 .iconTittle{
     font-size: 30px;
     padding: 10px 8px 5px ;
