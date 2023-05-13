@@ -335,7 +335,7 @@
     font-weight: 700;
     padding-top: 70px;
     font-size: 75px; 
-    padding-bottom: 50px;
+    padding-bottom: 30px;
     
 }
 .mydiv7{
@@ -344,6 +344,7 @@
     border: 2px solid #E9C0E9 ;
     border-radius: 40px ;
     overflow: hidden;
+   
 }
 .divlist{
     background-color:#502274;
@@ -353,17 +354,17 @@
 }
 .divlorm{
     font-size: 23px;
-    padding: 21px 26px 20px 34px;
+    padding: 11px 26px 5px 34px;
     font-weight: 600;
 }
 .divtittle7{
     font-size: 40px;
-    padding: 21px 26px 20px 34px;
+    padding: 10px 26px 12px 34px;
     font-weight: 700;
 }
 .subtittle7{
     font-size: 23px;
-    padding: 21px 26px 20px 34px;
+    padding: 11px 26px 10px 34px;
 }
 .buttom7{
   background-color: white;
@@ -375,7 +376,7 @@
     border: 2px solid #502274;
     font-weight: 500;
 }
-/* .buttom7:hover{
+.buttom7:hover{
     color: white;
     background-color:#502274;
-} */
+}
